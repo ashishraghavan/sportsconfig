@@ -1,0 +1,13 @@
+build:
+  version: 1.1.0
+
+contact:
+  message: "welcome to qa profile"
+  lead-developer:
+    name: "ashish-qa"
+    phone: 408-759-7670
+    address: 1235 Mayfield Ln
+  associate:
+    name: "hsihsa-qa"
+    phone: 759-804-6077
+    address: 3416 42nd St
