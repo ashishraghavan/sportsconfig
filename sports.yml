@@ -1,0 +1,13 @@
+build:
+  version: 1.0.0
+
+contact:
+  lead-developer:
+    name: ashish
+    phone: 408-759-7670
+    address: 1235 Mayfield Ln
+  associate:
+    name: hsihsa
+    phone: 759-804-6077
+    address: 3416 42nd St
+
