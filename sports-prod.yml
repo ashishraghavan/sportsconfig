@@ -6,11 +6,11 @@ build:
 contact:
   message: "welcome to prod profile"
   developer:
-    name: "ashish-prod"
-    phone: 3332be8de7a49c139621a4b4f0cc8b70bace80e2ccb834c4326e815219ce92e7
-    address: 1235 Mayfield Ln
+    name: "ashish-qa"
+    phone: "{cipher}3332be8de7a49c139621a4b4f0cc8b70bace80e2ccb834c4326e815219ce92e7"
+    address: "1235 Mayfield Ln"
   associate:
-    name: "hsihsa-prod"
-    phone: 3332be8de7a49c139621a4b4f0cc8b70bace80e2ccb834c4326e815219ce92e7
-    address: 3416 42nd St
+    name: "hsihsa-qa"
+    phone: "{cipher}3332be8de7a49c139621a4b4f0cc8b70bace80e2ccb834c4326e815219ce92e7"
+    address: "3416 42nd St"
 
