@@ -1,9 +1,11 @@
 build:
   version: 1.1.0
+  changelog: fixing qa bugs for upcoming release
+  releasedate: N/A
 
 contact:
   message: "welcome to qa profile"
-  lead-developer:
+  developer:
     name: "ashish-qa"
     phone: 408-759-7670
     address: 1235 Mayfield Ln

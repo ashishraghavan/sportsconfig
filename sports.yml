@@ -1,9 +1,11 @@
 build:
   version: 1.2.0
+  changelog: yet to start development
+  releasedate: TBA
 
 contact:
   message: "welcome to dev profile"
-  lead-developer:
+  developer:
     name: "ashish-dev"
     phone: 408-759-7670
     address: 1235 Mayfield Ln

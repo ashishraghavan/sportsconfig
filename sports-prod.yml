@@ -1,9 +1,11 @@
 build:
   version: 1.0.0
+  changelog: fixed bugs for latest release
+  releasedate: 01-01-2001
 
 contact:
   message: "welcome to prod profile"
-  lead-developer:
+  developer:
     name: "ashish-prod"
     phone: 408-759-7670
     address: 1235 Mayfield Ln
