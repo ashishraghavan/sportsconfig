@@ -3,17 +3,8 @@ build:
   changelog: monitoring prod for issues
   releasedate: N/A
 
-contact:
+book:
   message: "Welcome to prod profile for books"
-  developer:
-    name: "ashish-qa"
-    phone: "{cipher}3332be8de7a49c139621a4b4f0cc8b70bace80e2ccb834c4326e815219ce92e7"
-    address: "1235 Mayfield Ln"
-  associate:
-    name: "hsihsa-qa"
-    phone: "{cipher}3332be8de7a49c139621a4b4f0cc8b70bace80e2ccb834c4326e815219ce92e7"
-    address: "3416 42nd St"
-  book:
-    name: "the alchemist"
-    isbn: "LIBiGg6Q3Sv0gcOQbqyc"
-    year: "1998"
+  name: "the alchemist"
+  isbn: "LIBiGg6Q3Sv0gcOQbqyc"
+  year: "1998"
